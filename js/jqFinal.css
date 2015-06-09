@@ -1,0 +1,57 @@
+.listItem{
+	border: 2px solid black;
+	border-radius: 5px 5px;
+	width: 400px;
+	background-color: #A66829;
+}
+
+h2{
+	padding-top:5px;
+	padding-bottom: 5px;
+	width: 300px;
+	margin: auto;
+	text-align: center;
+	color: white;
+}
+
+.incomplete{
+	width: 200px;
+	margin:auto;
+	margin-top: 4px;
+	padding:5px;
+	list-style-type: none;
+	color: white;
+	background-color: brown;
+	border-radius: 5px 5px;
+	border: 2px solid black;
+}
+
+.complete{
+	width: 200px;
+	margin:auto;
+	margin-top: 4px;
+	padding:5px;
+	list-style-type: none;
+	color: white;
+	background-color: orange;
+	border-radius: 5px 5px;
+	border: 2px solid black;
+}
+
+p{
+	width:30px;
+	height: 30px;
+	padding-top: 10px;
+	background-color: white;
+	border: 1px solid white;
+	border-radius: 5px 5px;
+	text-align: center;
+	font-weight: bold;
+	float: right;
+	margin-right: 40px;
+	clear: both;
+}
+
+ul{
+	clear: both;
+}

@@ -1,0 +1,16 @@
+{
+	"wycieczki":[
+	{
+		"lokalizacja":"Warszawa",
+		"godzina":"13"
+	},
+	{
+		"lokalizacja":"Kraków",
+		"godzina":"7"
+	},
+	{
+		"lokalizacja":"Kołobrzeg",
+		"godzina":"10"
+	}
+	]
+}

@@ -1,0 +1,33 @@
+h2{
+	width: 500px;
+	border: 1px solid black;
+	margin:auto;
+	height: 50px;
+	padding-top: 10px;
+	text-align: center;
+}
+
+ul{
+	width: 500px;
+}
+
+li{
+	margin-top: 5px;
+	border: 1px solid black;
+	padding: 5px;
+	background-color: brown;
+	color: white;
+	list-style-type: none;
+}
+
+li#slideDown,li#slideUp{
+	text-align: center;
+	font-weight: bold;
+}
+
+
+div{
+	width:600px;
+	height: 300px;
+	border: 2px solid black;
+}
